@@ -178,7 +178,6 @@ function animate() {
     pluto.mesh.rotateY(options.plutoSpeed);
 
 
-    //Around-sun-rotation
       // Around-sun-rotation
       mercury.obj.rotateY(options.mercuryOrbitSpeed);
       venus.obj.rotateY(options.venusOrbitSpeed);
